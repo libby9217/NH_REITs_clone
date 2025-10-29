@@ -564,20 +564,29 @@ section.figure{
 section.family{
     padding: 5rem 2rem;
     @include mixin.desktop{
+        position: relative;
         width: 75vw;
         margin:0 auto;
     }
-    div.txt{
+    div.txt-wrap{
+        @include mixin.desktop{
+            position: absolute;
+        }
+        div.txt{
+        @include mixin.tablet{
+            width: 50%;
+        }
         h4{
             color: $font-sub;
             margin-top: 2rem;
         }
-    }
-    div.button{
-        margin: 2rem 0 5rem 0;
-        a{
-            margin-right: 1rem;
-            @include mixin.button
+        }
+        div.button{
+            margin: 2rem 0 5rem 0;
+            a{
+                margin-right: 1rem;
+                @include mixin.button
+            }
         }
     }
     ul{

@@ -839,18 +839,29 @@ section.family {
 }
 @media all and (min-width: 1180px) {
   section.family {
+    position: relative;
     width: 75vw;
     margin: 0 auto;
   }
 }
-section.family div.txt h4 {
+@media all and (min-width: 1180px) {
+  section.family div.txt-wrap {
+    position: absolute;
+  }
+}
+@media all and (min-width: 768px) {
+  section.family div.txt-wrap div.txt {
+    width: 50%;
+  }
+}
+section.family div.txt-wrap div.txt h4 {
   color: #666;
   margin-top: 2rem;
 }
-section.family div.button {
+section.family div.txt-wrap div.button {
   margin: 2rem 0 5rem 0;
 }
-section.family div.button a {
+section.family div.txt-wrap div.button a {
   margin-right: 1rem;
   display: inline-block;
   border: 2px solid #222;
@@ -860,7 +871,7 @@ section.family div.button a {
   font-size: 1.2rem;
   font-weight: 800;
 }
-section.family div.button a:hover {
+section.family div.txt-wrap div.button a:hover {
   background-color: #222;
   color: #FFF;
 }
