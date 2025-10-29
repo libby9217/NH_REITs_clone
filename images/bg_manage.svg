@@ -1,0 +1,21 @@
+<svg width="308" height="228" viewBox="0 0 308 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M123.5 1.5H34.5V226.5H123.5V1.5Z" stroke="#FFE8B3" stroke-width="3"/>
+<path d="M242 71.2728L172 37V227H242V71.2728Z" fill="white"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 205 100)" fill="#32A13C"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 215 100)" fill="#32A13C"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 215 110)" fill="#32A13C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M114 18V37H146V227H62V38V37V18H114Z" fill="#FFE8B3"/>
+<rect x="79" y="54.002" width="26" height="5" fill="#32A13C"/>
+<rect x="79" y="65.002" width="50" height="5" fill="#32A13C"/>
+<rect x="79" y="76.002" width="50" height="5" fill="#32A13C"/>
+<circle cx="264" cy="57" r="42.5" fill="white" stroke="#32A13C" stroke-width="3"/>
+<rect x="263" y="36" width="3" height="42" fill="#32A13C"/>
+<path d="M272.245 48.2655H275.572C275.335 42.9089 270.772 38.976 264.309 39.0001C257.869 38.976 252.927 42.8607 252.903 48.555C252.927 53.0912 256.087 55.9142 261.505 57.5308L265.592 58.7373C269.774 59.9437 272.721 61.5362 272.721 65.0107C272.721 69.1367 269.061 71.8873 263.976 71.9114C259.438 71.8873 255.826 69.6916 255.469 65.5898H252C252.404 71.2117 256.871 75.024 263.976 74.9999C271.533 75.024 276.024 70.7291 276 65.0589C276.024 59.1957 270.915 56.8794 266.59 55.6488L263.026 54.6354C259.77 53.7185 256.206 52.0536 256.23 48.4102C256.206 44.7427 259.461 42.0644 264.214 42.0403C268.681 42.0644 271.889 44.429 272.245 48.2655Z" fill="#32A13C"/>
+<path d="M173 151H124V227H173V151Z" fill="white"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 146 168)" fill="#32A13C"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 146 178)" fill="#32A13C"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 156 168)" fill="#32A13C"/>
+<rect width="5" height="5" transform="matrix(-1 0 0 1 156 178)" fill="#32A13C"/>
+<rect y="225" width="308" height="3" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M278 193.884C286.446 192.894 293 185.712 293 177C293 167.611 285.389 160 276 160C266.611 160 259 167.611 259 177C259 186.053 266.077 193.453 275 193.971V226H278V193.884Z" fill="white"/>
+</svg>
