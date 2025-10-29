@@ -781,6 +781,7 @@ section.figure div.inner div.txt div > h4 {
 section.figure div.inner div.txt img {
   display: none;
   width: 100%;
+  max-width: 320px;
 }
 @media all and (min-width: 768px) {
   section.figure div.inner div.txt img {

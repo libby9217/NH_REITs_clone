@@ -500,7 +500,6 @@ section.pr{
         }
     }
 }
-
 // Figure 영역
 section.figure{
     background-color: $sub-color;
@@ -528,6 +527,7 @@ section.figure{
             img{
                 display: none;
                 width: 100%;
+                max-width: 320px;
                 @include mixin.tablet{
                     display: block;
                 }
