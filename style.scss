@@ -565,7 +565,7 @@ section.family{
     padding: 5rem 2rem;
     @include mixin.desktop{
         width: 75vw;
-        margin-left: auto;
+        margin:0 auto;
     }
     div.txt{
         h4{

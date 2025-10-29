@@ -840,7 +840,7 @@ section.family {
 @media all and (min-width: 1180px) {
   section.family {
     width: 75vw;
-    margin-left: auto;
+    margin: 0 auto;
   }
 }
 section.family div.txt h4 {
