@@ -837,6 +837,12 @@ section.figure div.inner ul li:nth-child(4) div:nth-child(2) h5 {
 section.family {
   padding: 5rem 2rem;
 }
+@media all and (min-width: 1180px) {
+  section.family {
+    width: 75vw;
+    margin-left: auto;
+  }
+}
 section.family div.txt h4 {
   color: #666;
   margin-top: 2rem;

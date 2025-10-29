@@ -563,6 +563,10 @@ section.figure{
 // family 영역
 section.family{
     padding: 5rem 2rem;
+    @include mixin.desktop{
+        width: 75vw;
+        margin-left: auto;
+    }
     div.txt{
         h4{
             color: $font-sub;
